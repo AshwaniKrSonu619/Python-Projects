@@ -11,3 +11,8 @@ if(x==rev):
     print(x,"is palindrome number:")
 else:
     print(x,"is not palindrome number:")
+
+    
+    
+    Output:Enter Number:121
+                        121 is palindrome number:
